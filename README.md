@@ -73,6 +73,8 @@ _**Keep updating. Welcome to contribute.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| SEDSkill: Surgical Events Driven Method for Skill Assessment from Thoracoscopic Surgical Videos | **MICCAI 2023** | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_4) [Code](https://github.com/xmed-lab/SEDSkill)|
+| Surgical Skill Assessment via Video Semantic Aggregation  | **MICCAI 2022** | [Paper](https://arxiv.org/abs/2208.02611) [Code](https://github.com/shinkyo0513/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation) |
 | Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2109.14956) |
 | Development and Validation of a 3-Dimensional Convolutional Neural Network for Automatic Surgical Skill Assessment Based on Spatiotemporal Video Analysis | **JAMA 2021** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782991?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamanetworkopen.2021.20786) |
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) [Code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) |
