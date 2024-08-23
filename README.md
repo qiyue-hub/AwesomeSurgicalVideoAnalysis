@@ -263,6 +263,7 @@ _**Keep updating. Welcome to contribute.**_
 ## <span id = "scene"> **Surgical Scene / Anatomy Recognition** </span>
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| LSKANet: Long Strip Kernel Attention Network for Robotic Surgical Scene Segmentation | **TMI 2023** | [Paper](https://ieeexplore.ieee.org/abstract/document/10330108) [Code](https://github.com/YubinHan73/LSKANet) |
 | Artificial Intelligence for Surgical Safety: Automatic Assessment of the Critical View of Safety in Laparoscopic Cholecystectomy using Deep Learning | **AnnS 2020** | [Paper](https://journals.lww.com/annalsofsurgery/Abstract/9000/Artificial_Intelligence_for_Surgical_Safety_.94005.aspx) |
 | EasyLabels: weak labels for scene segmentation in laparoscopic videos | **IJCARS 2019** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10084862/) |
 | Kidney edge detection in laparoscopic image data for computer-assisted surgery | **IJCARS 2019** | [Paper](https://link.springer.com/article/10.1007/s11548-019-02102-0) |
