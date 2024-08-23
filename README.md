@@ -212,6 +212,7 @@ _**Keep updating. Welcome to contribute.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions | **MICCAI 2024** | [Paper](https://arxiv.org/abs/2407.11906) [Code](https://github.com/hding2455/CaRTS) |
 | Surgical Triplet Recognition via Diffusion Model | **arXiv 2024** | [Paper](https://arxiv.org/abs/2406.13210) |
 | ZEAL: Surgical Skill Assessment with Zero-shot Tool Inference Using Unified Foundation Model | **arXiv 2024** | [Paper](https://arxiv.org/abs/2407.02738) |
 | hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_38) |
