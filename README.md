@@ -73,6 +73,12 @@ _**Keep updating. Welcome to contribute.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| CWT-ViT: A time-frequency representation and vision transformer-based framework for automated robotic surgical skill assessment | **Expert Systems with Applications 2024** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424019316) [Code](https://github.com/yiming95/CWT-ViT-Surgery) |
+| Transformer-Based Automated Skill Assessment and Interpretation in Robot-Assisted Surgery | **ISMR 2024** | [Paper](https://ieeexplore.ieee.org/abstract/document/10585847) |
+| RICA2: Rubric-Informed, Calibrated Assessment of Actions | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.02138) [Code](https://abrarmajeedi.github.io/rica2_aqa/) |
+| (AQA, **Feedback**) ExpertAF: Expert Actionable Feedback from Video | **arXiv 2024** | [Paper](https://arxiv.org/abs/2408.00672) |
+| ZEAL: Surgical Skill Assessment with Zero-shot Tool Inference Using Unified Foundation Model | **arXiv 2024** | [Paper](https://arxiv.org/abs/2407.02738) |
+| (AQA_Diving) Hierarchical NeuroSymbolic Approach for Comprehensive and Explainable Action Quality Assessment | **CVPR 2024** | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.pdf) [Code](https://github.com/laurenok24/NSAQA) |
 | SEDSkill: Surgical Events Driven Method for Skill Assessment from Thoracoscopic Surgical Videos | **MICCAI 2023** | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_4) [Code](https://github.com/xmed-lab/SEDSkill)|
 | Surgical Skill Assessment via Video Semantic Aggregation  | **MICCAI 2022** | [Paper](https://arxiv.org/abs/2208.02611) [Code](https://github.com/shinkyo0513/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation) |
 | Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2109.14956) |
@@ -206,6 +212,8 @@ _**Keep updating. Welcome to contribute.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
+| Surgical Triplet Recognition via Diffusion Model | **arXiv 2024** | [Paper](https://arxiv.org/abs/2406.13210) |
+| ZEAL: Surgical Skill Assessment with Zero-shot Tool Inference Using Unified Foundation Model | **arXiv 2024** | [Paper](https://arxiv.org/abs/2407.02738) |
 | hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_38) |
 | Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26) |
 | Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2103.09276.pdf) |
